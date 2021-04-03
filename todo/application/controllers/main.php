@@ -61,7 +61,7 @@ class Main extends CI_Controller {
 
 	  		$this->todo_m->insert_todo($content, $created_on, $due_date);
 
-			redirect('/main/lists/');
+			redirect('/index.php/main/lists/');
 
 			exit;
   		}
@@ -82,7 +82,7 @@ class Main extends CI_Controller {
 
  		$this->todo_m->delete_todo($id);
 
- 		redirect('/main/lists/');
+ 		redirect('/index.php/main/lists/');
  	}
 
 }

@@ -23,7 +23,7 @@
 
 	<nav id="gnb"><!-- gnb Start -->
 		<ul>
-			<li><a rel="external" href="/todo/index.php/main/lists/">todo 어플리케이션 프로그램</a></li>
+			<li><a rel="external" href="/ci/todo/index.php/main/lists/">todo 어플리케이션 프로그램</a></li>
 		</ul>
 	</nav><!-- gnb End -->
 
