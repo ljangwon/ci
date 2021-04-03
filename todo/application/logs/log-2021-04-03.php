@@ -1188,3 +1188,229 @@ DEBUG - 2021-04-03 18:19:35 --> Helper loaded: url_helper
 DEBUG - 2021-04-03 18:19:35 --> File loaded: application/views/todo/list_v.php
 DEBUG - 2021-04-03 18:19:35 --> Final output sent to browser
 DEBUG - 2021-04-03 18:19:35 --> Total execution time: 0.0664
+DEBUG - 2021-04-03 18:28:05 --> Config Class Initialized
+DEBUG - 2021-04-03 18:28:05 --> Hooks Class Initialized
+DEBUG - 2021-04-03 18:28:05 --> Utf8 Class Initialized
+DEBUG - 2021-04-03 18:28:05 --> UTF-8 Support Enabled
+DEBUG - 2021-04-03 18:28:05 --> URI Class Initialized
+DEBUG - 2021-04-03 18:28:05 --> Router Class Initialized
+DEBUG - 2021-04-03 18:28:05 --> Output Class Initialized
+DEBUG - 2021-04-03 18:28:05 --> Security Class Initialized
+DEBUG - 2021-04-03 18:28:05 --> Input Class Initialized
+DEBUG - 2021-04-03 18:28:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-04-03 18:28:05 --> Language Class Initialized
+DEBUG - 2021-04-03 18:28:05 --> Loader Class Initialized
+DEBUG - 2021-04-03 18:28:05 --> Helper loaded: date_helper
+DEBUG - 2021-04-03 18:28:05 --> Controller Class Initialized
+DEBUG - 2021-04-03 18:28:05 --> Database Driver Class Initialized
+ERROR - 2021-04-03 18:28:05 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\dev\bin\xampp\htdocs\ci\todo\system\database\drivers\mysql\mysql_driver.php 73
+DEBUG - 2021-04-03 18:28:05 --> Model Class Initialized
+DEBUG - 2021-04-03 18:28:05 --> Model Class Initialized
+DEBUG - 2021-04-03 18:28:05 --> File loaded: application/views/header_v.php
+DEBUG - 2021-04-03 18:28:05 --> Pagination Class Initialized
+DEBUG - 2021-04-03 18:28:05 --> DB Transaction Failure
+ERROR - 2021-04-03 18:28:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY board_id DESC' at line 1
+DEBUG - 2021-04-03 18:28:05 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2021-04-03 18:29:18 --> Config Class Initialized
+DEBUG - 2021-04-03 18:29:18 --> Hooks Class Initialized
+DEBUG - 2021-04-03 18:29:18 --> Utf8 Class Initialized
+DEBUG - 2021-04-03 18:29:18 --> UTF-8 Support Enabled
+DEBUG - 2021-04-03 18:29:18 --> URI Class Initialized
+DEBUG - 2021-04-03 18:29:18 --> Router Class Initialized
+DEBUG - 2021-04-03 18:29:18 --> Output Class Initialized
+DEBUG - 2021-04-03 18:29:18 --> Security Class Initialized
+DEBUG - 2021-04-03 18:29:18 --> Input Class Initialized
+DEBUG - 2021-04-03 18:29:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-04-03 18:29:18 --> Language Class Initialized
+DEBUG - 2021-04-03 18:29:18 --> Loader Class Initialized
+DEBUG - 2021-04-03 18:29:18 --> Helper loaded: date_helper
+DEBUG - 2021-04-03 18:29:18 --> Controller Class Initialized
+DEBUG - 2021-04-03 18:29:18 --> File loaded: application/views/header_v.php
+DEBUG - 2021-04-03 18:29:18 --> File loaded: application/views/footer_v.php
+DEBUG - 2021-04-03 18:29:18 --> Final output sent to browser
+DEBUG - 2021-04-03 18:29:18 --> Total execution time: 0.0238
+DEBUG - 2021-04-03 18:30:00 --> Config Class Initialized
+DEBUG - 2021-04-03 18:30:00 --> Hooks Class Initialized
+DEBUG - 2021-04-03 18:30:00 --> Utf8 Class Initialized
+DEBUG - 2021-04-03 18:30:00 --> UTF-8 Support Enabled
+DEBUG - 2021-04-03 18:30:00 --> URI Class Initialized
+DEBUG - 2021-04-03 18:30:00 --> Router Class Initialized
+DEBUG - 2021-04-03 18:30:00 --> No URI present. Default controller set.
+DEBUG - 2021-04-03 18:30:00 --> Output Class Initialized
+DEBUG - 2021-04-03 18:30:00 --> Security Class Initialized
+DEBUG - 2021-04-03 18:30:00 --> Input Class Initialized
+DEBUG - 2021-04-03 18:30:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-04-03 18:30:00 --> Language Class Initialized
+DEBUG - 2021-04-03 18:30:00 --> Loader Class Initialized
+DEBUG - 2021-04-03 18:30:00 --> Helper loaded: date_helper
+DEBUG - 2021-04-03 18:30:00 --> Controller Class Initialized
+DEBUG - 2021-04-03 18:30:00 --> File loaded: application/views/welcome_message.php
+DEBUG - 2021-04-03 18:30:00 --> Final output sent to browser
+DEBUG - 2021-04-03 18:30:00 --> Total execution time: 0.0243
+DEBUG - 2021-04-03 18:36:04 --> Config Class Initialized
+DEBUG - 2021-04-03 18:36:04 --> Hooks Class Initialized
+DEBUG - 2021-04-03 18:36:04 --> Utf8 Class Initialized
+DEBUG - 2021-04-03 18:36:04 --> UTF-8 Support Enabled
+DEBUG - 2021-04-03 18:36:04 --> URI Class Initialized
+DEBUG - 2021-04-03 18:36:04 --> Router Class Initialized
+DEBUG - 2021-04-03 18:36:04 --> Output Class Initialized
+DEBUG - 2021-04-03 18:36:04 --> Security Class Initialized
+DEBUG - 2021-04-03 18:36:04 --> Input Class Initialized
+DEBUG - 2021-04-03 18:36:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-04-03 18:36:04 --> Language Class Initialized
+DEBUG - 2021-04-03 18:36:04 --> Loader Class Initialized
+DEBUG - 2021-04-03 18:36:04 --> Helper loaded: date_helper
+DEBUG - 2021-04-03 18:36:04 --> Controller Class Initialized
+DEBUG - 2021-04-03 18:36:04 --> Database Driver Class Initialized
+ERROR - 2021-04-03 18:36:04 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\dev\bin\xampp\htdocs\ci\todo\system\database\drivers\mysql\mysql_driver.php 73
+DEBUG - 2021-04-03 18:36:04 --> Model Class Initialized
+DEBUG - 2021-04-03 18:36:04 --> Model Class Initialized
+DEBUG - 2021-04-03 18:36:04 --> File loaded: application/views/header_v.php
+DEBUG - 2021-04-03 18:36:04 --> Pagination Class Initialized
+DEBUG - 2021-04-03 18:36:04 --> DB Transaction Failure
+ERROR - 2021-04-03 18:36:04 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY board_id DESC' at line 1
+DEBUG - 2021-04-03 18:36:04 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2021-04-03 18:41:35 --> Config Class Initialized
+DEBUG - 2021-04-03 18:41:35 --> Hooks Class Initialized
+DEBUG - 2021-04-03 18:41:35 --> Utf8 Class Initialized
+DEBUG - 2021-04-03 18:41:35 --> UTF-8 Support Enabled
+DEBUG - 2021-04-03 18:41:35 --> URI Class Initialized
+DEBUG - 2021-04-03 18:41:35 --> Router Class Initialized
+DEBUG - 2021-04-03 18:41:35 --> Output Class Initialized
+DEBUG - 2021-04-03 18:41:35 --> Security Class Initialized
+DEBUG - 2021-04-03 18:41:35 --> Input Class Initialized
+DEBUG - 2021-04-03 18:41:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-04-03 18:41:35 --> Language Class Initialized
+DEBUG - 2021-04-03 18:41:35 --> Loader Class Initialized
+DEBUG - 2021-04-03 18:41:35 --> Helper loaded: date_helper
+DEBUG - 2021-04-03 18:41:35 --> Controller Class Initialized
+DEBUG - 2021-04-03 18:41:35 --> Database Driver Class Initialized
+ERROR - 2021-04-03 18:41:35 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\dev\bin\xampp\htdocs\ci\todo\system\database\drivers\mysql\mysql_driver.php 73
+DEBUG - 2021-04-03 18:41:35 --> Model Class Initialized
+DEBUG - 2021-04-03 18:41:35 --> Model Class Initialized
+DEBUG - 2021-04-03 18:41:35 --> File loaded: application/views/header_v.php
+DEBUG - 2021-04-03 18:41:35 --> Pagination Class Initialized
+DEBUG - 2021-04-03 18:41:35 --> DB Transaction Failure
+ERROR - 2021-04-03 18:41:35 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY board_id DESC' at line 1
+DEBUG - 2021-04-03 18:41:35 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2021-04-03 18:41:59 --> Config Class Initialized
+DEBUG - 2021-04-03 18:41:59 --> Hooks Class Initialized
+DEBUG - 2021-04-03 18:41:59 --> Utf8 Class Initialized
+DEBUG - 2021-04-03 18:41:59 --> UTF-8 Support Enabled
+DEBUG - 2021-04-03 18:41:59 --> URI Class Initialized
+DEBUG - 2021-04-03 18:41:59 --> Router Class Initialized
+DEBUG - 2021-04-03 18:41:59 --> Output Class Initialized
+DEBUG - 2021-04-03 18:41:59 --> Security Class Initialized
+DEBUG - 2021-04-03 18:41:59 --> Input Class Initialized
+DEBUG - 2021-04-03 18:41:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-04-03 18:41:59 --> Language Class Initialized
+DEBUG - 2021-04-03 18:41:59 --> Loader Class Initialized
+DEBUG - 2021-04-03 18:41:59 --> Helper loaded: date_helper
+DEBUG - 2021-04-03 18:41:59 --> Controller Class Initialized
+DEBUG - 2021-04-03 18:41:59 --> Database Driver Class Initialized
+ERROR - 2021-04-03 18:41:59 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\dev\bin\xampp\htdocs\ci\todo\system\database\drivers\mysql\mysql_driver.php 73
+DEBUG - 2021-04-03 18:41:59 --> Model Class Initialized
+DEBUG - 2021-04-03 18:41:59 --> Model Class Initialized
+DEBUG - 2021-04-03 18:41:59 --> File loaded: application/views/header_v.php
+DEBUG - 2021-04-03 18:41:59 --> Pagination Class Initialized
+DEBUG - 2021-04-03 18:41:59 --> DB Transaction Failure
+ERROR - 2021-04-03 18:41:59 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY board_id DESC' at line 1
+DEBUG - 2021-04-03 18:41:59 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2021-04-03 18:42:31 --> Config Class Initialized
+DEBUG - 2021-04-03 18:42:31 --> Hooks Class Initialized
+DEBUG - 2021-04-03 18:42:31 --> Utf8 Class Initialized
+DEBUG - 2021-04-03 18:42:31 --> UTF-8 Support Enabled
+DEBUG - 2021-04-03 18:42:31 --> URI Class Initialized
+DEBUG - 2021-04-03 18:42:31 --> Router Class Initialized
+DEBUG - 2021-04-03 18:42:31 --> Output Class Initialized
+DEBUG - 2021-04-03 18:42:31 --> Security Class Initialized
+DEBUG - 2021-04-03 18:42:31 --> Input Class Initialized
+DEBUG - 2021-04-03 18:42:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-04-03 18:42:31 --> Language Class Initialized
+DEBUG - 2021-04-03 18:42:31 --> Loader Class Initialized
+DEBUG - 2021-04-03 18:42:31 --> Helper loaded: date_helper
+DEBUG - 2021-04-03 18:42:31 --> Controller Class Initialized
+DEBUG - 2021-04-03 18:42:31 --> Database Driver Class Initialized
+ERROR - 2021-04-03 18:42:31 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\dev\bin\xampp\htdocs\ci\todo\system\database\drivers\mysql\mysql_driver.php 73
+DEBUG - 2021-04-03 18:42:31 --> Model Class Initialized
+DEBUG - 2021-04-03 18:42:31 --> Model Class Initialized
+DEBUG - 2021-04-03 18:42:31 --> File loaded: application/views/header_v.php
+DEBUG - 2021-04-03 18:42:31 --> Pagination Class Initialized
+DEBUG - 2021-04-03 18:42:31 --> DB Transaction Failure
+ERROR - 2021-04-03 18:42:31 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY board_id DESC' at line 1
+DEBUG - 2021-04-03 18:42:31 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2021-04-03 18:43:18 --> Config Class Initialized
+DEBUG - 2021-04-03 18:43:18 --> Hooks Class Initialized
+DEBUG - 2021-04-03 18:43:18 --> Utf8 Class Initialized
+DEBUG - 2021-04-03 18:43:18 --> UTF-8 Support Enabled
+DEBUG - 2021-04-03 18:43:18 --> URI Class Initialized
+DEBUG - 2021-04-03 18:43:18 --> Router Class Initialized
+DEBUG - 2021-04-03 18:43:18 --> Output Class Initialized
+DEBUG - 2021-04-03 18:43:18 --> Security Class Initialized
+DEBUG - 2021-04-03 18:43:18 --> Input Class Initialized
+DEBUG - 2021-04-03 18:43:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-04-03 18:43:18 --> Language Class Initialized
+DEBUG - 2021-04-03 18:43:18 --> Loader Class Initialized
+DEBUG - 2021-04-03 18:43:18 --> Helper loaded: date_helper
+DEBUG - 2021-04-03 18:43:18 --> Controller Class Initialized
+DEBUG - 2021-04-03 18:43:18 --> Database Driver Class Initialized
+ERROR - 2021-04-03 18:43:18 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\dev\bin\xampp\htdocs\ci\todo\system\database\drivers\mysql\mysql_driver.php 73
+DEBUG - 2021-04-03 18:43:18 --> Model Class Initialized
+DEBUG - 2021-04-03 18:43:18 --> Model Class Initialized
+DEBUG - 2021-04-03 18:43:18 --> File loaded: application/views/header_v.php
+DEBUG - 2021-04-03 18:43:18 --> Pagination Class Initialized
+DEBUG - 2021-04-03 18:43:18 --> DB Transaction Failure
+ERROR - 2021-04-03 18:43:18 --> Query error: Table 'todo.ci_board' doesn't exist
+DEBUG - 2021-04-03 18:43:18 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2021-04-03 18:48:50 --> Config Class Initialized
+DEBUG - 2021-04-03 18:48:50 --> Hooks Class Initialized
+DEBUG - 2021-04-03 18:48:50 --> Utf8 Class Initialized
+DEBUG - 2021-04-03 18:48:50 --> UTF-8 Support Enabled
+DEBUG - 2021-04-03 18:48:50 --> URI Class Initialized
+DEBUG - 2021-04-03 18:48:50 --> Router Class Initialized
+DEBUG - 2021-04-03 18:48:50 --> Output Class Initialized
+DEBUG - 2021-04-03 18:48:50 --> Security Class Initialized
+DEBUG - 2021-04-03 18:48:50 --> Input Class Initialized
+DEBUG - 2021-04-03 18:48:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-04-03 18:48:50 --> Language Class Initialized
+DEBUG - 2021-04-03 18:48:50 --> Loader Class Initialized
+DEBUG - 2021-04-03 18:48:50 --> Helper loaded: date_helper
+DEBUG - 2021-04-03 18:48:50 --> Controller Class Initialized
+DEBUG - 2021-04-03 18:48:50 --> Database Driver Class Initialized
+ERROR - 2021-04-03 18:48:50 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\dev\bin\xampp\htdocs\ci\todo\system\database\drivers\mysql\mysql_driver.php 73
+DEBUG - 2021-04-03 18:48:50 --> Model Class Initialized
+DEBUG - 2021-04-03 18:48:50 --> Model Class Initialized
+DEBUG - 2021-04-03 18:48:50 --> File loaded: application/views/header_v.php
+DEBUG - 2021-04-03 18:48:50 --> Pagination Class Initialized
+DEBUG - 2021-04-03 18:48:50 --> File loaded: application/views/board/list_v.php
+DEBUG - 2021-04-03 18:48:50 --> File loaded: application/views/footer_v.php
+DEBUG - 2021-04-03 18:48:50 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2021-04-03 18:48:50 --> Helper loaded: text_helper
+DEBUG - 2021-04-03 18:48:50 --> Final output sent to browser
+DEBUG - 2021-04-03 18:48:50 --> Total execution time: 0.0824
+DEBUG - 2021-04-03 18:53:15 --> Config Class Initialized
+DEBUG - 2021-04-03 18:53:15 --> Hooks Class Initialized
+DEBUG - 2021-04-03 18:53:15 --> Utf8 Class Initialized
+DEBUG - 2021-04-03 18:53:15 --> UTF-8 Support Enabled
+DEBUG - 2021-04-03 18:53:15 --> URI Class Initialized
+DEBUG - 2021-04-03 18:53:15 --> Router Class Initialized
+DEBUG - 2021-04-03 18:53:15 --> Output Class Initialized
+DEBUG - 2021-04-03 18:53:15 --> Security Class Initialized
+DEBUG - 2021-04-03 18:53:15 --> Input Class Initialized
+DEBUG - 2021-04-03 18:53:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-04-03 18:53:15 --> Language Class Initialized
+DEBUG - 2021-04-03 18:53:15 --> Loader Class Initialized
+DEBUG - 2021-04-03 18:53:15 --> Helper loaded: date_helper
+DEBUG - 2021-04-03 18:53:15 --> Controller Class Initialized
+DEBUG - 2021-04-03 18:53:15 --> Database Driver Class Initialized
+ERROR - 2021-04-03 18:53:15 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\dev\bin\xampp\htdocs\ci\todo\system\database\drivers\mysql\mysql_driver.php 73
+DEBUG - 2021-04-03 18:53:15 --> Model Class Initialized
+DEBUG - 2021-04-03 18:53:15 --> Model Class Initialized
+DEBUG - 2021-04-03 18:53:15 --> File loaded: application/views/header_v.php
+DEBUG - 2021-04-03 18:53:15 --> Pagination Class Initialized
+DEBUG - 2021-04-03 18:53:15 --> File loaded: application/views/board/list_v.php
+DEBUG - 2021-04-03 18:53:15 --> File loaded: application/views/footer_v.php
+DEBUG - 2021-04-03 18:53:15 --> Language file loaded: language/english/profiler_lang.php
+DEBUG - 2021-04-03 18:53:15 --> Helper loaded: text_helper
+DEBUG - 2021-04-03 18:53:15 --> Final output sent to browser
+DEBUG - 2021-04-03 18:53:15 --> Total execution time: 0.0759

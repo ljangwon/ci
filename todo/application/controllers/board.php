@@ -66,7 +66,7 @@ class Board extends CI_Controller {
 
 		//페이지네이션 설정
 		$config['base_url'] = '/board/lists/ci_board'.$page_url.'/page/'; //페이징 주소
-		$config['total_rows'] = $this->board_m->get_list($this->uri->segment(3), 'count', '', '', $search_word); //게시물의 전체 갯수
+		$config['total_rows'] = $this->board_m->get_list($this->uri->segment(3,'ci_board'), 'count', '', '', $search_word); //게시물의 전체 갯수
 		$config['per_page'] = 5; //한 페이지에 표시할 게시물 수
 		$config['uri_segment'] = $uri_segment; //페이지 번호가 위치한 세그먼트
 
@@ -89,7 +89,7 @@ class Board extends CI_Controller {
 
 		$limit = $config['per_page'];
 
-		$data['list'] = $this->board_m->get_list($this->uri->segment(3), '', $start, $limit, $search_word);
+		$data['list'] = $this->board_m->get_list($this->uri->segment(3,'ci_board'), '', $start, $limit, $search_word);
 		$this->load->view('board/list_v', $data);
 	}
 
@@ -99,7 +99,7 @@ class Board extends CI_Controller {
 	function view()
  	{
  		//게시판 이름과 게시물 번호에 해당하는 게시물 가져오기
- 		$data['views'] = $this->board_m->get_view($this->uri->segment(3), $this->uri->segment(5));
+ 		$data['views'] = $this->board_m->get_view($this->uri->segment(3,'ci_board'), $this->uri->segment(5));
 
  		//view 호출
  		$this->load->view('board/view_v', $data);

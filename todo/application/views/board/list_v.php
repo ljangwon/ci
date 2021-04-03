@@ -55,7 +55,7 @@ foreach ($list as $lt)
 				</tr>
 			</tfoot>
 		</table>
-		<div><p><a href="/board/write/<?php echo $this->uri->segment(3);?>/page/<?php echo $this->uri->segment(5);?>" class="btn btn-success">쓰기</a></p></div>
+		<div><p><a href="/ci/board/write<?php echo $this->uri->segment(3);?>/page/<?php echo $this->uri->segment(5);?>" class="btn btn-success">쓰기</a></p></div>
 		<div>
 			<form id="bd_search" method="post" class="well form-search" >
 				<i class="icon-search"></i> <input type="text" name="search_word" id="q" onkeypress="board_search_enter(document.q);" class="input-medium search-query" /> <input type="button" value="검색" id="search_btn" class="btn btn-primary" />
